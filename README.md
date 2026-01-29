@@ -10,4 +10,4 @@ Committed to scaling security and hardening defenses through transparency. Alway
 
 ### :hammer_and_wrench: Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null-event&theme=tokyonight)](https://github.com/null-event/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null-event&theme=tokyonight)]
