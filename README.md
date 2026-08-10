@@ -1,6 +1,6 @@
-Hi, I'm Paul and I work as Head of Adversary Simulation @ [TikTok USDS JV](https://usdsjv.tiktok.com/)
+Hi, I'm Paul and I work on the Anthropic Red Team.
 
-Committed to scaling security and hardening defenses through transparency. Always sharing my findings. Always learning from yours.
+Committed to making technological advances go well for us all.
 
 | Section | Details |
 | :--- | :--- |
